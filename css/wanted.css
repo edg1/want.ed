@@ -1,0 +1,28 @@
+.tab-bar {
+  background-color: #FF0836;
+}
+.tab-bar .left-small {
+  background-color: #B2203B;
+  border: 0;
+}
+.off-canvas-wrap > .inner-wrap {
+  height: 100%;
+}
+.left-off-canvas-menu {
+  background-color: #2A8BB2;
+}
+.left-off-canvas-menu li > a {
+  background-color: #1B99CC;
+}
+ul.off-canvas-list li a {
+  border: 0;
+  color: white;
+}
+ul.off-canvas-list li > label {
+  padding: 0px;
+  background-color: #2A8BB2;
+}
+.off-canvas-wrap {
+  height: 100%;
+  
+}
